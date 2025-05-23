@@ -37,7 +37,7 @@ spec:
         region: us
         type: non-prod  
         version: qa
-      - env: integration-non-cpu
+      - env: integration-non-gpu
         region: us
         type: non-prod  
         version: qa
